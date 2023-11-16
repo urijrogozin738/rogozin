@@ -1,0 +1,10 @@
+}
+COINGECKO_URL = "https://api.coingecko.com/api/v3/simple/price?ids={}&vs_currencies=usd"
+LZ_CHAIN_TO_TOKEN = {
+    101: 'ETH',
+    110: 'ETH',
+    111: 'ETH',
+    109: 'MATIC',
+    102: 'BNB',
+    106: 'AVAX',
+    184: 'ETH',
